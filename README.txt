@@ -11,6 +11,17 @@ link : https://www.jetbrains.com/pycharm/download
 3. Download Project Folder.
 link : https://github.com/Martinus21/covid-19_Cases
 
+Install Python :
+1. download Python.
+2. run python.exe.
+3. Pilih Install dan jangan lupa centang python pathnya.
+4. Next sampai program menginstal python.
+5. Cek python pada cmd dengan cara "python --version".
+
+Install Pycharm :
+1. Download Pycharm.
+2. Next sampai program menginstall.
+
 Menjalankan Project di Pycharm
 1. Run Pycharm.
 2. Open Project / Open Folder dan cari Folder yang sudah didownload dari github atau folder pada pengumpulan tugas.
