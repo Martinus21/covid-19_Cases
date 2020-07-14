@@ -13,11 +13,11 @@
             "acc_released": "0",
             "new_deceased": "0",
             "acc_deceased": "0",
-            "positive_rate": "0.59%",
-            "negative_rate": "98.82%",
-            "decease_rate": "0.00%",
-            "release_rate": "0.00%",
-            "dailypositive_rate": "0.00%"
+            "positive_rate": "0.59",
+            "negative_rate": "98.82",
+            "decease_rate": "0.00",
+            "release_rate": "0.00",
+            "dailypositive_rate": "0.00"
         },
         "3-Mar-20": {
             "date": "3-Mar-20",
@@ -32,11 +32,11 @@
             "acc_released": "0",
             "new_deceased": "0",
             "acc_deceased": "0",
-            "positive_rate": "0.59%",
-            "negative_rate": "98.83%",
-            "decease_rate": "0.00%",
-            "release_rate": "0.00%",
-            "dailypositive_rate": "0.00%"
+            "positive_rate": "0.59",
+            "negative_rate": "98.83",
+            "decease_rate": "0.00",
+            "release_rate": "0.00",
+            "dailypositive_rate": "0.00"
         },
         "4-Mar-20": {
             "date": "4-Mar-20",
@@ -51,11 +51,11 @@
             "acc_released": "0",
             "new_deceased": "0",
             "acc_deceased": "0",
-            "positive_rate": "0.54%",
-            "negative_rate": "95.70%",
-            "decease_rate": "0.00%",
-            "release_rate": "0.00%",
-            "dailypositive_rate": "0.00%"
+            "positive_rate": "0.54",
+            "negative_rate": "95.70",
+            "decease_rate": "0.00",
+            "release_rate": "0.00",
+            "dailypositive_rate": "0.00"
         },
         "5-Mar-20": {
             "date": "5-Mar-20",
@@ -70,11 +70,11 @@
             "acc_released": "0",
             "new_deceased": "0",
             "acc_deceased": "0",
-            "positive_rate": "0.52%",
-            "negative_rate": "95.62%",
-            "decease_rate": "0.00%",
-            "release_rate": "0.00%",
-            "dailypositive_rate": "0.00%"
+            "positive_rate": "0.52",
+            "negative_rate": "95.62",
+            "decease_rate": "0.00",
+            "release_rate": "0.00",
+            "dailypositive_rate": "0.00"
         },
         "6-Mar-20": {
             "date": "6-Mar-20",
@@ -89,11 +89,11 @@
             "acc_released": "0",
             "new_deceased": "0",
             "acc_deceased": "0",
-            "positive_rate": "0.89%",
-            "negative_rate": "93.78%",
-            "decease_rate": "0.00%",
-            "release_rate": "0.00%",
-            "dailypositive_rate": "3.23%"
+            "positive_rate": "0.89",
+            "negative_rate": "93.78",
+            "decease_rate": "0.00",
+            "release_rate": "0.00",
+            "dailypositive_rate": "3.23"
         },
         "7-Mar-20": {
             "date": "7-Mar-20",
@@ -108,11 +108,11 @@
             "acc_released": "0",
             "new_deceased": "0",
             "acc_deceased": "0",
-            "positive_rate": "0.88%",
-            "negative_rate": "92.95%",
-            "decease_rate": "0.00%",
-            "release_rate": "0.00%",
-            "dailypositive_rate": "0.00%"
+            "positive_rate": "0.88",
+            "negative_rate": "92.95",
+            "decease_rate": "0.00",
+            "release_rate": "0.00",
+            "dailypositive_rate": "0.00"
         },
         "8-Mar-20": {
             "date": "8-Mar-20",
@@ -127,11 +127,11 @@
             "acc_released": "0",
             "new_deceased": "0",
             "acc_deceased": "0",
-            "positive_rate": "1.24%",
-            "negative_rate": "92.13%",
-            "decease_rate": "0.00%",
-            "release_rate": "0.00%",
-            "dailypositive_rate": "6.90%"
+            "positive_rate": "1.24",
+            "negative_rate": "92.13",
+            "decease_rate": "0.00",
+            "release_rate": "0.00",
+            "dailypositive_rate": "6.90"
         },
         "9-Mar-20": {
             "date": "9-Mar-20",
@@ -146,11 +146,11 @@
             "acc_released": "0",
             "new_deceased": "0",
             "acc_deceased": "0",
-            "positive_rate": "3.50%",
-            "negative_rate": "89.69%",
-            "decease_rate": "0.00%",
-            "release_rate": "0.00%",
-            "dailypositive_rate": "21.67%"
+            "positive_rate": "3.50",
+            "negative_rate": "89.69",
+            "decease_rate": "0.00",
+            "release_rate": "0.00",
+            "dailypositive_rate": "21.67"
         },
         "10-Mar-20": {
             "date": "10-Mar-20",
@@ -165,11 +165,11 @@
             "acc_released": "0",
             "new_deceased": "0",
             "acc_deceased": "0",
-            "positive_rate": "3.89%",
-            "negative_rate": "93.37%",
-            "decease_rate": "0.00%",
-            "release_rate": "0.00%",
-            "dailypositive_rate": "5.30%"
+            "positive_rate": "3.89",
+            "negative_rate": "93.37",
+            "decease_rate": "0.00",
+            "release_rate": "0.00",
+            "dailypositive_rate": "5.30"
         },
         "11-Mar-20": {
             "date": "11-Mar-20",
@@ -184,11 +184,11 @@
             "acc_released": "2",
             "new_deceased": "2",
             "acc_deceased": "2",
-            "positive_rate": "4.29%",
-            "negative_rate": "93.82%",
-            "decease_rate": "5.88%",
-            "release_rate": "5.88%",
-            "dailypositive_rate": "7.07%"
+            "positive_rate": "4.29",
+            "negative_rate": "93.82",
+            "decease_rate": "5.88",
+            "release_rate": "5.88",
+            "dailypositive_rate": "7.07"
         },
         "12-Mar-20": {
             "date": "12-Mar-20",
@@ -203,11 +203,11 @@
             "acc_released": "3",
             "new_deceased": "2",
             "acc_deceased": "4",
-            "positive_rate": "3.94%",
-            "negative_rate": "94.08%",
-            "decease_rate": "11.76%",
-            "release_rate": "8.82%",
-            "dailypositive_rate": "0.00%"
+            "positive_rate": "3.94",
+            "negative_rate": "94.08",
+            "decease_rate": "11.76",
+            "release_rate": "8.82",
+            "dailypositive_rate": "0.00"
         },
         "13-Mar-20": {
             "date": "13-Mar-20",
@@ -222,11 +222,11 @@
             "acc_released": "5",
             "new_deceased": "0",
             "acc_deceased": "4",
-            "positive_rate": "6.87%",
-            "negative_rate": "91.24%",
-            "decease_rate": "5.80%",
-            "release_rate": "7.25%",
-            "dailypositive_rate": "24.48%"
+            "positive_rate": "6.87",
+            "negative_rate": "91.24",
+            "decease_rate": "5.80",
+            "release_rate": "7.25",
+            "dailypositive_rate": "24.48"
         },
         "14-Mar-20": {
             "date": "14-Mar-20",
@@ -241,11 +241,11 @@
             "acc_released": "8",
             "new_deceased": "1",
             "acc_deceased": "5",
-            "positive_rate": "7.97%",
-            "negative_rate": "92.03%",
-            "decease_rate": "5.21%",
-            "release_rate": "8.33%",
-            "dailypositive_rate": "13.50%"
+            "positive_rate": "7.97",
+            "negative_rate": "92.03",
+            "decease_rate": "5.21",
+            "release_rate": "8.33",
+            "dailypositive_rate": "13.50"
         },
         "15-Mar-20": {
             "date": "15-Mar-20",
@@ -260,11 +260,11 @@
             "acc_released": "8",
             "new_deceased": "0",
             "acc_deceased": "5",
-            "positive_rate": "9.05%",
-            "negative_rate": "90.26%",
-            "decease_rate": "4.27%",
-            "release_rate": "6.84%",
-            "dailypositive_rate": "23.86%"
+            "positive_rate": "9.05",
+            "negative_rate": "90.26",
+            "decease_rate": "4.27",
+            "release_rate": "6.84",
+            "dailypositive_rate": "23.86"
         },
         "16-Mar-20": {
             "date": "16-Mar-20",
@@ -279,11 +279,11 @@
             "acc_released": "8",
             "new_deceased": "0",
             "acc_deceased": "5",
-            "positive_rate": "10.08%",
-            "negative_rate": "88.95%",
-            "decease_rate": "3.73%",
-            "release_rate": "5.97%",
-            "dailypositive_rate": "23.86%"
+            "positive_rate": "10.08",
+            "negative_rate": "88.95",
+            "decease_rate": "3.73",
+            "release_rate": "5.97",
+            "dailypositive_rate": "23.86"
         },
         "17-Mar-20": {
             "date": "17-Mar-20",
@@ -298,11 +298,11 @@
             "acc_released": "9",
             "new_deceased": "2",
             "acc_deceased": "7",
-            "positive_rate": "12.54%",
-            "negative_rate": "93.15%",
-            "decease_rate": "4.07%",
-            "release_rate": "5.23%",
-            "dailypositive_rate": "26.76%"
+            "positive_rate": "12.54",
+            "negative_rate": "93.15",
+            "decease_rate": "4.07",
+            "release_rate": "5.23",
+            "dailypositive_rate": "26.76"
         },
         "18-Mar-20": {
             "date": "18-Mar-20",
@@ -317,11 +317,11 @@
             "acc_released": "11",
             "new_deceased": "12",
             "acc_deceased": "19",
-            "positive_rate": "14.26%",
-            "negative_rate": "84.30%",
-            "decease_rate": "8.37%",
-            "release_rate": "4.85%",
-            "dailypositive_rate": "25.00%"
+            "positive_rate": "14.26",
+            "negative_rate": "84.30",
+            "decease_rate": "8.37",
+            "release_rate": "4.85",
+            "dailypositive_rate": "25.00"
         },
         "19-Mar-20": {
             "date": "19-Mar-20",
@@ -336,11 +336,11 @@
             "acc_released": "15",
             "new_deceased": "6",
             "acc_deceased": "25",
-            "positive_rate": "18.72%",
-            "negative_rate": "95.09%",
-            "decease_rate": "8.09%",
-            "release_rate": "4.85%",
-            "dailypositive_rate": "26.80%"
+            "positive_rate": "18.72",
+            "negative_rate": "95.09",
+            "decease_rate": "8.09",
+            "release_rate": "4.85",
+            "dailypositive_rate": "26.80"
         },
         "20-Mar-20": {
             "date": "20-Mar-20",
@@ -355,11 +355,11 @@
             "acc_released": "16",
             "new_deceased": "7",
             "acc_deceased": "32",
-            "positive_rate": "18.20%",
-            "negative_rate": "81.02%",
-            "decease_rate": "8.67%",
-            "release_rate": "4.34%",
-            "dailypositive_rate": "46.15%"
+            "positive_rate": "18.20",
+            "negative_rate": "81.02",
+            "decease_rate": "8.67",
+            "release_rate": "4.34",
+            "dailypositive_rate": "46.15"
         },
         "21-Mar-20": {
             "date": "21-Mar-20",
@@ -374,11 +374,11 @@
             "acc_released": "20",
             "new_deceased": "6",
             "acc_deceased": "38",
-            "positive_rate": "19.03%",
-            "negative_rate": "80.13%",
-            "decease_rate": "8.44%",
-            "release_rate": "4.44%",
-            "dailypositive_rate": "24.04%"
+            "positive_rate": "19.03",
+            "negative_rate": "80.13",
+            "decease_rate": "8.44",
+            "release_rate": "4.44",
+            "dailypositive_rate": "24.04"
         },
         "22-Mar-20": {
             "date": "22-Mar-20",
@@ -393,11 +393,11 @@
             "acc_released": "29",
             "new_deceased": "10",
             "acc_deceased": "48",
-            "positive_rate": "21.08%",
-            "negative_rate": "78.10%",
-            "decease_rate": "9.34%",
-            "release_rate": "5.64%",
-            "dailypositive_rate": "87.67%"
+            "positive_rate": "21.08",
+            "negative_rate": "78.10",
+            "decease_rate": "9.34",
+            "release_rate": "5.64",
+            "dailypositive_rate": "87.67"
         },
         "23-Mar-20": {
             "date": "23-Mar-20",
@@ -412,11 +412,11 @@
             "acc_released": "30",
             "new_deceased": "1",
             "acc_deceased": "49",
-            "positive_rate": "21.01%",
-            "negative_rate": "78.99%",
-            "decease_rate": "8.46%",
-            "release_rate": "5.18%",
-            "dailypositive_rate": "20.44%"
+            "positive_rate": "21.01",
+            "negative_rate": "78.99",
+            "decease_rate": "8.46",
+            "release_rate": "5.18",
+            "dailypositive_rate": "20.44"
         },
         "24-Mar-20": {
             "date": "24-Mar-20",
@@ -431,11 +431,11 @@
             "acc_released": "30",
             "new_deceased": "6",
             "acc_deceased": "55",
-            "positive_rate": "20.56%",
-            "negative_rate": "78.78%",
-            "decease_rate": "8.03%",
-            "release_rate": "4.38%",
-            "dailypositive_rate": "18.40%"
+            "positive_rate": "20.56",
+            "negative_rate": "78.78",
+            "decease_rate": "8.03",
+            "release_rate": "4.38",
+            "dailypositive_rate": "18.40"
         },
         "25-Mar-20": {
             "date": "25-Mar-20",
@@ -450,11 +450,11 @@
             "acc_released": "31",
             "new_deceased": "3",
             "acc_deceased": "58",
-            "positive_rate": "20.67%",
-            "negative_rate": "79.33%",
-            "decease_rate": "7.34%",
-            "release_rate": "3.92%",
-            "dailypositive_rate": "21.43%"
+            "positive_rate": "20.67",
+            "negative_rate": "79.33",
+            "decease_rate": "7.34",
+            "release_rate": "3.92",
+            "dailypositive_rate": "21.43"
         },
         "26-Mar-20": {
             "date": "26-Mar-20",
@@ -469,11 +469,11 @@
             "acc_released": "35",
             "new_deceased": "20",
             "acc_deceased": "78",
-            "positive_rate": "20.60%",
-            "negative_rate": "79.40%",
-            "decease_rate": "8.73%",
-            "release_rate": "3.92%",
-            "dailypositive_rate": "20.04%"
+            "positive_rate": "20.60",
+            "negative_rate": "79.40",
+            "decease_rate": "8.73",
+            "release_rate": "3.92",
+            "dailypositive_rate": "20.04"
         },
         "27-Mar-20": {
             "date": "27-Mar-20",
@@ -488,11 +488,11 @@
             "acc_released": "46",
             "new_deceased": "9",
             "acc_deceased": "87",
-            "positive_rate": "18.11%",
-            "negative_rate": "81.89%",
-            "decease_rate": "8.32%",
-            "release_rate": "4.40%",
-            "dailypositive_rate": "10.63%"
+            "positive_rate": "18.11",
+            "negative_rate": "81.89",
+            "decease_rate": "8.32",
+            "release_rate": "4.40",
+            "dailypositive_rate": "10.63"
         },
         "28-Mar-20": {
             "date": "28-Mar-20",
@@ -507,11 +507,11 @@
             "acc_released": "59",
             "new_deceased": "15",
             "acc_deceased": "102",
-            "positive_rate": "18.43%",
-            "negative_rate": "81.57%",
-            "decease_rate": "8.83%",
-            "release_rate": "5.11%",
-            "dailypositive_rate": "22.20%"
+            "positive_rate": "18.43",
+            "negative_rate": "81.57",
+            "decease_rate": "8.83",
+            "release_rate": "5.11",
+            "dailypositive_rate": "22.20"
         },
         "29-Mar-20": {
             "date": "29-Mar-20",
@@ -526,11 +526,11 @@
             "acc_released": "64",
             "new_deceased": "12",
             "acc_deceased": "114",
-            "positive_rate": "19.67%",
-            "negative_rate": "80.33%",
-            "decease_rate": "8.87%",
-            "release_rate": "4.98%",
-            "dailypositive_rate": "48.51%"
+            "positive_rate": "19.67",
+            "negative_rate": "80.33",
+            "decease_rate": "8.87",
+            "release_rate": "4.98",
+            "dailypositive_rate": "48.51"
         },
         "30-Mar-20": {
             "date": "30-Mar-20",
@@ -545,11 +545,11 @@
             "acc_released": "75",
             "new_deceased": "8",
             "acc_deceased": "122",
-            "positive_rate": "21.22%",
-            "negative_rate": "78.78%",
-            "decease_rate": "8.63%",
-            "release_rate": "5.30%",
-            "dailypositive_rate": "100.00%"
+            "positive_rate": "21.22",
+            "negative_rate": "78.78",
+            "decease_rate": "8.63",
+            "release_rate": "5.30",
+            "dailypositive_rate": "100.00"
         },
         "31-Mar-20": {
             "date": "31-Mar-20",
@@ -564,11 +564,11 @@
             "acc_released": "81",
             "new_deceased": "14",
             "acc_deceased": "136",
-            "positive_rate": "22.55%",
-            "negative_rate": "77.45%",
-            "decease_rate": "8.90%",
-            "release_rate": "5.30%",
-            "dailypositive_rate": "100.00%"
+            "positive_rate": "22.55",
+            "negative_rate": "77.45",
+            "decease_rate": "8.90",
+            "release_rate": "5.30",
+            "dailypositive_rate": "100.00"
         }
     }
 }
