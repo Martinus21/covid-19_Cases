@@ -1,14 +1,22 @@
 # KELOMPOK DPPL (COVID19)
 # 1. MARTINUS RICHARD TICOALU (20180801055)
-# 2. NABILL (20180801107)
+# 2. NABILLA (20180801107)
+# 3. ASHAHRA VINDY ARIESTA (20180801001)
 # SEBELUM MENJALANKAN PROGRAM, PASTIKAN INSTALL PACKAGE ATAU LIBRARY DITERMINAL DENGAN CARA :
-# PIP INSTALL CSV
 # PIP INSTALL PANDAS
-# PIP INSTALL JSON
 # PIP INSTALL MATPLOTLIB
+# PIP INSTALL TKINTER
 # PIP INSTALL PILLOW
 # INSTALL DENGAN TEXT LOWER CASE ATAU HURUF KECIL
 # UNTUK CEK PACKAGE ATAU LIBRARY : PIP FREEZE
+
+# IMPORT
+# import csv untuk memanggil folder yang berextend .csv
+# import json untuk membuat data berupa object
+# import pandas untuk melakukan scraping/cleaning data
+# form matplotlib import pylot untuk membuat visualisasi chart
+# form tkinter import * untuk membuat visualisasi Homepage
+# from PIL import ImageTk,Image untuk menampilkan gambar pada frame
 
 import csv
 import json
